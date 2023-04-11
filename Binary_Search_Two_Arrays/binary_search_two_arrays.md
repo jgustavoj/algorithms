@@ -53,6 +53,6 @@ The pairs where the first element belongs to array A and the second element belo
 
 Hence, the <u>output</u> is
 
-```diff
-+ 3
+```
+3
 ```

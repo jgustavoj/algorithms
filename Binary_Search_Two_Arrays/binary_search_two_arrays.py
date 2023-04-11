@@ -24,6 +24,6 @@ for i in range(m):
 
 k = int(input())
 
-countPairs(n,a,m,b,k)
-# print('Answer:', countPairs(n,a,m,b,k))
+# countPairs(n,a,m,b,k)
+print('Answer:', countPairs(n,a,m,b,k))
 # countPairs(a = [1,2,3], b = [1,2], k =  4, n = 3, m = 2)
